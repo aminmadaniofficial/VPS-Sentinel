@@ -2,7 +2,7 @@
 
 **VPS Sentinel** is a lightweight, modern, and high-performance system monitoring dashboard built with **Spring Boot 3** and **Tailwind CSS**. It provides a sleek Glassmorphism interface for real-time tracking of CPU, RAM, Disk, System Processes, and Network Ports directly from your VPS.
 
-![Dashboard Preview](https://your-repo-link.com/preview.png) 
+![Dashboard Preview](./preview.png) 
 ## ✨ Features
 - 🚀 **Real-time Monitoring:** Instant tracking of CPU Load, RAM usage, and Disk space.
 - 📊 **Live Analytics:** Dynamic CPU performance charts powered by Chart.js.
